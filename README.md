@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html, Css, Javascript, React, Typescript**
 
-- 📫 How to reach me **samuelebrt4@gmail.com**
+- 📫 You can reach me at **samuelebrt4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
