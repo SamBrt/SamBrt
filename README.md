@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuele Berti</h1>
 <h3 align="center">A passionate full-stack developer student from Italy</h3>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **SQL, Node.js**
 
 - 👯 I’m looking to collaborate with **NASA**
 
-- 💬 Ask me about **Html, Css, Javascript, React, Typescript**
+- 💬 Ask me about **Html, Css, Javascript, React**
 
 - 📫 You can reach me at **samuelebrt4@gmail.com**
 
